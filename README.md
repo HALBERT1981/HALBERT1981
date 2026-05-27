@@ -3,8 +3,8 @@
 # Halbert
 ### Analista MIS em transição estruturada para Data Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/halbert-soares-252a7393)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](halsoares@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/halbert-soares-252a7393)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halsoares@gmail.com)
 
 </div>
 
@@ -193,7 +193,8 @@ destino = "Data Engineer — stack completa · ~18–22 meses · "
 
 *Roadmap v2.0 · Integrado com Pós-Graduação DevOps · Atualizado conforme progresso real*
 
-**"Você não está começando do zero. Está redirecionando o que já construiu."**
+**"Não estou começando do zero. Estou redirecionando o que já construiu."**
 
+Nota de Transparência: Partes deste projeto/conteúdo foram geradas com o auxílio de inteligência artificial (ex: ChatGPT, GitHub Copilot).
 </div>
 
