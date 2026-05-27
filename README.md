@@ -181,9 +181,6 @@ destino = "Data Engineer — stack completa · ~18–22 meses · "
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
