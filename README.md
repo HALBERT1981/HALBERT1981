@@ -105,15 +105,15 @@ Data Engineer — Stack Completa
 
 ```
 ┌─────────────────────┐     SSH      ┌─────────────────────┐
-│   Dell Vostro       │ ──────────► │   HP Pavilion       │
-│   i7 13ª · 16GB    │             │   AMD · 4GB         │
-│   Windows 11        │             │   Linux Mint XFCE   │
-│                     │             │                     │
-│  WSL2 · Docker      │             │  Servidor SSH       │
-│  VS Code · Python   │             │  Worker Airflow     │
-│  PostgreSQL · DBT   │             │  Cron jobs nativos  │
-│  Terraform · AWS    │             │  Alvo de pipelines  │
-└─────────────────────┘             └─────────────────────┘
+│   Dell Vostro       │ ──────────►  │   HP Pavilion       │
+│   i7 13ª · 16GB     │              │   AMD · 4GB         │
+│   Windows 11        │              │   Linux Mint XFCE   │
+│                     │              │                     │
+│  WSL2 · Docker      │              │  Servidor SSH       │
+│  VS Code · Python   │              │  Worker Airflow     │
+│  PostgreSQL · DBT   │              │  Cron jobs nativos  │
+│  Terraform · AWS    │              │  Alvo de pipelines  │
+└─────────────────────┘              └─────────────────────┘
          │
          │  Videoaulas · Simulados · Leitura
          ▼
