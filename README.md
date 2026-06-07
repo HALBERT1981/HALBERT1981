@@ -32,7 +32,7 @@ Analista MIS (hoje)
 │  FASE 0  ██████████░░░░░░░░░░  Em andamento                     │
 │  Python Pandas · SQL Avançado · Linux/SSH · Git                 │
 ├─────────────────────────────────────────────────────────────────┤
-│  FASE 1  ███████░░░░░░░░░  Próxima                             │
+│  FASE 1  █████████░░░░░░░  Próxima                             │
 │  SQL para Análise de Dados — DSA (96h)                          │
 ├─────────────────────────────────────────────────────────────────┤
 │  FASE 2  ░░░░░░░░░░░░░░░░░░░░  Aguardando                       │
