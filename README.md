@@ -91,7 +91,7 @@ Data Engineer — Stack Completa
 |---|---|---|---|
 | [🔧 homelab-setup](https://github.com/seu-usuario/homelab-setup) | Lab SSH: Dell → HP Pavilion · monitoramento remoto via Python | Python · Paramiko · SSH · Linux · cron | ✅ Ativo |
 | [📊 python-studies](https://github.com/seu-usuario/python-studies) | Notebooks Pandas: DataFrames, merge, groupby, leitura de APIs | Python · Pandas · Jupyter | 🔄 Em andamento |
-| [🗄️ sql-studies](https://github.com/seu-usuario/sql-studies) | SQL avançado: CTEs, Window Functions, EXPLAIN/ANALYZE | PostgreSQL · SQL | 🔄 Em andamento |
+| [🗄️ sql-studies](https://github.com/seu-usuario/sql-studies) | SQL avançado: CTEs, Window Functions, EXPLAIN/ANALYZE | PostgreSQL · SQL | ✅ Ativo |
 | [🗄️ sql-portfolio](https://github.com/seu-usuario/sql-portfolio) | Projeto análise com dataset real — perguntas respondidas em SQL puro | PostgreSQL · SQL Avançado | ⏳ Fase 1 |
 | [☁️ aws-labs](https://github.com/seu-usuario/aws-labs) | Scripts boto3: S3, RDS, EC2 · CI/CD GitHub Actions | Python · boto3 · AWS | ⏳ Fase 2 |
 | [🔄 elt-pipeline](https://github.com/seu-usuario/elt-pipeline) | Pipeline ELT end-to-end com testes DBT automatizados | Airbyte · DBT · PostgreSQL · Docker | ⏳ Fase 3 |
