@@ -136,7 +136,7 @@ Data Engineer — Stack Completa
 | Credencial | Instituição | Status |
 |---|---|---|
 | Master DevOps Engineering & Tech Agile | UniCuritiba / Gama Academy | 🔄 Em andamento |
-| SQL para Análise de Dados e Data Science | Data Science Academy | ⏳ Fase 1 |
+| SQL para Análise de Dados e Data Science | Data Science Academy | ✅ Ativo |
 | Engenharia de Dados — Airbyte, DBT e SQL | Data Science Academy | ⏳ Adquirido |
 | Orquestração com Apache Airflow | Data Science Academy | ⏳ Adquirido |
 | Plataforma de Dados com Snowflake | Data Science Academy | ⏳ Adquirido |
