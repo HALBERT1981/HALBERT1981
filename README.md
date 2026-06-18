@@ -38,7 +38,7 @@ Analista MIS (hoje)
 │  FASE 2  ░░░░░░░░░░░░░░░░░░░░  Aguardando                       │
 │  AWS Cloud Practitioner — Certificação                          │
 ├─────────────────────────────────────────────────────────────────┤
-│  FASE 3  ░░░░░░░░░░░░░░░░░░░░  Aguardando                       │
+│  FASE 3  ██░░░░░░░░░░░░░░░░░░  Em andamento                     │
 │  Engenharia de Dados — Airbyte · DBT · SQL (DSA 96h)            │
 ├─────────────────────────────────────────────────────────────────┤
 │  FASE 4  ░░░░░░░░░░░░░░░░░░░░  Aguardando                       │
