@@ -92,7 +92,7 @@ Data Engineer — Stack Completa
 | [🔧 homelab-setup](https://github.com/seu-usuario/homelab-setup) | Lab SSH: Dell → HP Pavilion · monitoramento remoto via Python | Python · Paramiko · SSH · Linux · cron | ✅ Ativo |
 | [📊 python-studies](https://github.com/seu-usuario/python-studies) | Notebooks Pandas: DataFrames, merge, groupby, leitura de APIs | Python · Pandas · Jupyter | 🔄 Em andamento |
 | [🗄️ sql-studies](https://github.com/seu-usuario/sql-studies) | SQL avançado: CTEs, Window Functions, EXPLAIN/ANALYZE | PostgreSQL · SQL | ✅ Ativo |
-| [🗄️ sql-portfolio](https://github.com/seu-usuario/sql-portfolio) | Projeto análise com dataset real — perguntas respondidas em SQL puro | PostgreSQL · SQL Avançado | ⏳ Fase 1 |
+| [🗄️ sql-portfolio](https://github.com/seu-usuario/sql-portfolio) | Projeto análise com dataset real — perguntas respondidas em SQL puro | PostgreSQL · SQL Avançado | ✅ Ativo |
 | [☁️ aws-labs](https://github.com/seu-usuario/aws-labs) | Scripts boto3: S3, RDS, EC2 · CI/CD GitHub Actions | Python · boto3 · AWS | ⏳ Fase 2 |
 | [🔄 elt-pipeline](https://github.com/seu-usuario/elt-pipeline) | Pipeline ELT end-to-end com testes DBT automatizados | Airbyte · DBT · PostgreSQL · Docker | ⏳ Fase 3 |
 | [🏗️ terraform-data-infra](https://github.com/seu-usuario/terraform-data-infra) | Infra de dados como código · apply/destroy documentado | Terraform · AWS · Grafana · Prometheus | ⏳ Fase 4 |
@@ -137,7 +137,8 @@ Data Engineer — Stack Completa
 |---|---|---|
 | Master DevOps Engineering & Tech Agile | UniCuritiba / Gama Academy | 🔄 Em andamento |
 | SQL para Análise de Dados e Data Science | Data Science Academy | ✅ Concluído |
-| Engenharia de Dados — Airbyte, DBT e SQL | Data Science Academy | ⏳ Adquirido |
+| Engenharia de Dados — Airbyte, DBT e SQL | Data Science Academy | 🔄 Em andamento |
+| Modelagem e Análise de dados com Power BI| Data Science Academy| 🔄 Em andamento|
 | Orquestração com Apache Airflow | Data Science Academy | ⏳ Adquirido |
 | Plataforma de Dados com Snowflake | Data Science Academy | ⏳ Adquirido |
 | Infraestrutura como Código — Terraform + AWS + Azure | Data Science Academy | ⏳ Adquirido |
