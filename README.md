@@ -29,11 +29,14 @@ Analista MIS (hoje)
         │
         ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  FASE 0  ██████████░░░░░░░░░░  Em andamento                     │
+│  FASE 0  ████████████░░░░░  Em andamento                        │
 │  Python Pandas · SQL Avançado · Linux/SSH · Git                 │
 ├─────────────────────────────────────────────────────────────────┤
 │  FASE 1  ██████████  Próxima                                    │
-│  SQL para Análise de Dados — DSA (96h)                          │
+│  SQL para Análise de Dados — DSA (96h)                          |
+├─────────────────────────────────────────────────────────────────┤
+│  FASE 1  █████░░░░░░  Em Andamento                              │
+│  Modelagem e Análise de dados com Power BI — DSA (96h)          |
 ├─────────────────────────────────────────────────────────────────┤
 │  FASE 2  ░░░░░░░░░░░░░░░░░░░░  Aguardando                       │
 │  AWS Cloud Practitioner — Certificação                          │
